@@ -1,0 +1,17 @@
+{
+    "name": "omar/prueba-tecnica-php-omar",
+    "autoload": {
+        "psr-4": {
+            "Omar\\PruebaTecnicaPhpOmar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar Santos Yujra Huanca",
+            "email": "oyujra@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
